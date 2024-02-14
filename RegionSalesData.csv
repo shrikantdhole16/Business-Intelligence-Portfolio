@@ -1,0 +1,44 @@
+ OrderDate , Region   , Rep      , Item      , Units , Unit Price 
+ 04-Jul-21 , East     , Rahul    , Pen Set   ,620,990
+ 12-Jul-21 , East     , Nikhil   , Binder    ,29,1990
+ 21-Jul-21 , Central  , Mohan    , Pen Set   ,550,990
+ 29-Jul-21 , East     , Suresh   , Binder    ,81,1990
+ 07-Aug-21 , Central  , Manish   , Pen Set   ,420,990
+ 15-Aug-21 , East     , Rahul    , Pencil    ,3500,40
+ 24-Aug-21 , West     , Ajay     , Desk      ,3,14500
+ 01-Sep-21 , Central  , Sameer   , Desk      ,2,14500
+ 10-Sep-21 , Central  , Vivek    , Pencil    ,7000,40
+ 18-Sep-21 , East     , Rahul    , Pen Set   ,160,990
+ 27-Sep-21 , West     , Ajay     , Pen       ,7600,60
+ 05-Oct-21 , Central  , Mohan    , Binder    ,28,1990
+ 14-Oct-21 , West     , Tarun    , Binder    ,57,1990
+ 22-Oct-21 , East     , Rahul    , Pen       ,6400,60
+ 31-Oct-21 , Central  , Rani     , Pencil    ,1400,40
+ 08-Nov-21 , East     , Sunita   , Pen       ,1500,60
+ 17-Nov-21 , Central  , Avinash  , Binder    ,11,1990
+ 25-Nov-21 , Central  , Manish   , Pen Set   ,960,990
+ 04-Dec-21 , Central  , Avinash  , Binder    ,94,1990
+ 12-Dec-21 , Central  , Sameer   , Pencil    ,6700,40
+ 21-Dec-21 , Central  , Rani     , Binder    ,28,1990
+ 29-Dec-21 , East     , Suresh   , Pen Set   ,740,990
+ 06-Jan-22 , East     , Rahul    , Pencil    ,9500,40
+ 15-Jan-22 , Central  , Vivek    , Binder    ,46,1990
+ 23-Jan-22 , Central  , Manish   , Binder    ,50,1990
+ 01-Feb-22 , Central  , Sameer   , Binder    ,87,1990
+ 09-Feb-22 , Central  , Avinash  , Pencil    ,3600,40
+ 18-Feb-22 , East     , Rahul    , Binder    ,4,1990
+ 26-Feb-22 , Central  , Vivek    , Pen       ,2700,60
+ 07-Mar-22 , West     , Ajay     , Binder    ,7,1990
+ 15-Mar-22 , West     , Ajay     , Pencil    ,5600,40
+ 24-Mar-22 , Central  , Avinash  , Pen Set   ,500,990
+ 01-Apr-22 , East     , Rahul    , Binder    ,60,1990
+ 10-Apr-22 , Central  , Rani     , Pencil    ,6600,40
+ 18-Apr-22 , Central  , Rani     , Pencil    ,7500,40
+ 27-Apr-22 , East     , Nikhil   , Pen       ,9600,60
+ 05-May-22 , Central  , Avinash  , Pencil    ,9000,40
+ 14-May-22 , Central  , Vivek    , Pencil    ,5300,40
+ 22-May-22 , West     , Tarun    , Pencil    ,3200,40
+ 31-May-22 , Central  , Vivek    , Binder    ,80,1990
+ 08-Jun-22 , East     , Rahul    , Binder    ,60,1990
+ 17-Jun-22 , Central  , Manish   , Desk      ,5,14500
+ 25-Jun-22 , Central  , Mohan    , Pencil    ,9000,40
